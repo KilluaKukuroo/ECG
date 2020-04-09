@@ -26,3 +26,12 @@ Applying modified U-Net to identify wave boundary in ECG sequence.
 2002年的论文。对比了PNN4~PNN100多组数据，得出结论PNN小于50ms的时候，拥有较好的区分度。
 
 2. []()<br>
+
+## datasets
+1. [DECAF emotional states recognition dataset]<br>
+[DECAF introduction PPT](https://pdfs.semanticscholar.org/8cf5/6d54df1daba47b1fc5b9347660af1ba94307.pdf)<br>
+[DECAF: MEG-based Multimodal Database for Decoding Affective Physiological Responses](https://github.com/KilluaKukuroo/ECG/tree/master/paper/DECAF-2015.pdf)<br>
+2015年来自University of Trento， Queen Mary University of London，Advanced Digital Sciences Center (ADSC) UIUC Singapore 等机构的研究者发布多模态
+的情绪识别数据集。主要卖点在MEG。
+
+2. [AMIGOS]
