@@ -12,7 +12,7 @@ python实现的HRV分析工具包。
 
 
 ## review
-1. [**Opportunities and Challenges in Deep Learning Methods on Electrocardiogram Data: A Systematic Review**](https://arxiv.org/pdf/2001.01550.pdf)<br>
+1. [*Opportunities and Challenges in Deep Learning Methods on Electrocardiogram Data: A Systematic Review*](https://arxiv.org/pdf/2001.01550.pdf)<br>
 2019年的综述，从模型和应用的角度综述了深度学习在ECG领域的研究现状。作者来自佐治亚理工，北大，IQVIA和UIUC 的Jimeng Sun. 
 
 ## wave delineation
