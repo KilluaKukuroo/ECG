@@ -2,7 +2,7 @@
 Get all you need about ECG!
 
 # Contents
-* [code package](#code-package)
+* [code package](#packages-and-useful-links)
 * [papers](#papers)
 	- [review](##review)
 	- [wave delineation](##wave-delineation)
@@ -11,12 +11,15 @@ Get all you need about ECG!
 
 ## papers, notes, books, codes about ECG
 
-# code package
+# packages and useful links
 1. [NeuroKit2](https://github.com/neuropsychology/NeuroKit#contribution)<br>
 生物医学信号处理很全面的包。
 
 2. [Pythonic package for HRV Analysis](https://github.com/rhenanbartels/hrv)<br>
 python实现的HRV分析工具包。
+
+3. [Awesome Affective Computing](https://github.com/AmrMKayid/awesome-affective-computing/blob/master/README.md#affective-science)<br>
+
 
 # papers
 
