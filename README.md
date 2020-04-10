@@ -2,12 +2,12 @@
 Get all you need about ECG!
 
 # Contents
-* [code package](#code package)
+* [code package](#code-package)
 * [papers](#papers)
 	- [review](##review)
-	- [wave delineation](##wave delineation)
+	- [wave delineation](##wave-delineation)
 	- [HRV](##HRV)
-* [datasets] (#datasets)
+* [datasets](#datasets)
 
 ## papers, notes, books, codes about ECG
 
