@@ -11,6 +11,12 @@ Get all you need about ECG!
 
 ## papers, notes, books, codes about ECG
 
+
+#scholars
+[Ali Etemad](https://www.ece.queensu.ca/people/a-etemad/index.html) AP at Queen's University, AI+wearable device+signals<br>
+
+
+
 # packages and useful links
 1. [NeuroKit2](https://github.com/neuropsychology/NeuroKit#contribution)<br>
 生物医学信号处理很全面的包。
