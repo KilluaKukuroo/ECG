@@ -121,3 +121,13 @@ Applying modified U-Net to identify wave boundary in ECG sequence.
 的情绪识别数据集。主要卖点在MEG。
 
 2. [AMIGOS]
+
+   多模态情绪数据库，人脸、心电、脑电；
+
+3. [PTB-XL-PhysioNet](https://www.physionet.org/content/ptb-xl/1.0.1/)
+
+   2020年发布，超过2万个，12导联ECG数据；
+
+4. [LUDB](https://physionet.org/content/ludb/1.0.0/)
+
+   2020年发布，Lobachevsky University， 200多条12导联数据集；
